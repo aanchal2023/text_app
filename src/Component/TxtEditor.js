@@ -12,6 +12,8 @@ function TxtEditor(props) {
 
     function upper_Click(e){
         setMessage(message.toUpperCase());
+
+        
     }
     
     function lower_Click(e){
